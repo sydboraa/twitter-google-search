@@ -1,0 +1,8 @@
+@(message: String)
+
+<h2>Get User Data</h2>
+
+<form action="@routes.CreateUser.create()" method="POST">
+    UserName: <input type="text" name="userName" placeholder="Enter a username ">
+    <input type="submit" value="Create">
+</form>

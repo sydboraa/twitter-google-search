@@ -1,0 +1,350 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - n",
+    "totalResults": "2030000000",
+    "searchTerms": "n",
+    "count": 3,
+    "startIndex": 4,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "000588659921952991952:zlbdfzgofj4"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - n",
+    "totalResults": "2030000000",
+    "searchTerms": "n",
+    "count": 3,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "000588659921952991952:zlbdfzgofj4"
+   }
+  ]
+ },
+ "context": {
+  "title": "SBBSearchEngine"
+ },
+ "searchInformation": {
+  "searchTime": 0.650838,
+  "formattedSearchTime": "0.65",
+  "totalResults": "2030000000",
+  "formattedTotalResults": "2,030,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Cox n' Crendor - YouTube",
+   "htmlTitle": "Cox \u003cb\u003en\u003c/b\u003e&#39; Crendor - YouTube",
+   "link": "https://www.youtube.com/user/CoxnCrendor",
+   "displayLink": "www.youtube.com",
+   "snippet": "Do you love high quality non-content? Well you're in the right place! Welcoome to \nthe official animated home of the Cox n' Crendor podcast.",
+   "htmlSnippet": "Do you love high quality non-content? Well you&#39;re in the right place! Welcoome to \u003cbr\u003e\nthe official animated home of the Cox \u003cb\u003en\u003c/b\u003e&#39; Crendor podcast.",
+   "cacheId": "sLSaaBBDjwoJ",
+   "formattedUrl": "https://www.youtube.com/user/CoxnCrendor",
+   "htmlFormattedUrl": "https://www.youtube.com/user/CoxnCrendor",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://yt3.ggpht.com/-rvpQnO_GPlc/AAAAAAAAAAI/AAAAAAAAAAA/9aGv_vTJTdU/s900-c-k-no/photo.jpg"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/CoxnCrendor"
+     },
+     {
+      "url": "https://plus.google.com/108379522127190730078"
+     },
+     {
+      "url": "http://www.youtube.com/user/CoxnCrendor"
+     },
+     {
+      "url": "https://plus.google.com/108379522127190730078"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVd8nGb3USaRBg9mJJfbFcFQ4OYrSdd8gEgw493cscumWLAWvqGyliqhg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Cox n' Crendor",
+      "og:site_name": "YouTube",
+      "og:url": "https://www.youtube.com/user/CoxnCrendor",
+      "og:title": "Cox n' Crendor",
+      "og:image": "https://yt3.ggpht.com/-rvpQnO_GPlc/AAAAAAAAAAI/AAAAAAAAAAA/9aGv_vTJTdU/s900-c-k-no/photo.jpg",
+      "og:description": "Do you love high quality non-content? Well you're in the right place! Welcoome to the official animated home of the Cox n' Crendor podcast.",
+      "al:ios:app_store_id": "544007664",
+      "al:ios:app_name": "YouTube",
+      "al:ios:url": "vnd.youtube://user/UCFytMWyB3hjfc7u5UFDnCeg",
+      "al:android:url": "https://www.youtube.com/user/CoxnCrendor?feature=applinks",
+      "al:android:app_name": "YouTube",
+      "al:android:package": "com.google.android.youtube",
+      "al:web:url": "https://www.youtube.com/user/CoxnCrendor?feature=applinks",
+      "og:type": "profile",
+      "fb:app_id": "87741124305",
+      "twitter:card": "summary",
+      "twitter:site": "@youtube",
+      "twitter:url": "https://www.youtube.com/user/CoxnCrendor",
+      "twitter:title": "Cox n' Crendor",
+      "twitter:description": "Do you love high quality non-content? Well you're in the right place! Welcoome to the official animated home of the Cox n' Crendor podcast.",
+      "twitter:image": "https://yt3.ggpht.com/-rvpQnO_GPlc/AAAAAAAAAAI/AAAAAAAAAAA/9aGv_vTJTdU/s900-c-k-no/photo.jpg",
+      "twitter:app:name:iphone": "YouTube",
+      "twitter:app:id:iphone": "544007664",
+      "twitter:app:name:ipad": "YouTube",
+      "twitter:app:id:ipad": "544007664",
+      "twitter:app:url:iphone": "vnd.youtube://user/UCFytMWyB3hjfc7u5UFDnCeg",
+      "twitter:app:url:ipad": "vnd.youtube://user/UCFytMWyB3hjfc7u5UFDnCeg",
+      "twitter:app:name:googleplay": "YouTube",
+      "twitter:app:id:googleplay": "com.google.android.youtube",
+      "twitter:app:url:googleplay": "https://www.youtube.com/user/CoxnCrendor"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "https://yt3.ggpht.com/-rvpQnO_GPlc/AAAAAAAAAAI/AAAAAAAAAAA/9aGv_vTJTdU/s900-c-k-no/photo.jpg",
+      "width": "900",
+      "height": "900"
+     },
+     {
+      "url": "https://yt3.ggpht.com/-rvpQnO_GPlc/AAAAAAAAAAI/AAAAAAAAAAA/9aGv_vTJTdU/s900-c-k-no/photo.jpg",
+      "width": "900",
+      "height": "900"
+     }
+    ],
+    "youtubechannelv2": [
+     {
+      "url": "https://www.youtube.com/user/CoxnCrendor",
+      "name": "Cox n' Crendor",
+      "description": "Do you love high quality non-content? Well you're in the right place! Welcoome to the official animated home of the Cox n' Crendor podcast.",
+      "paid": "False",
+      "channelid": "UCFytMWyB3hjfc7u5UFDnCeg",
+      "thumbnailurl": "https://yt3.ggpht.com/-rvpQnO_GPlc/AAAAAAAAAAI/AAAAAAAAAAA/9aGv_vTJTdU/s900-c-k-no/photo.jpg",
+      "isfamilyfriendly": "True",
+      "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Nicki Minaj - Pills N Potions (Official) - YouTube",
+   "htmlTitle": "Nicki Minaj - Pills \u003cb\u003eN\u003c/b\u003e Potions (Official) - YouTube",
+   "link": "http://www.youtube.com/watch?v=f7ld-3nZUxA",
+   "displayLink": "www.youtube.com",
+   "snippet": "Jun 9, 2014 ... The Pinkprint Available now! http://smarturl.it/NickiPinkprntDlxExiT Music video \nby Nicki Minaj performing Pills N Potions. (C) 2014 Cash Money ...",
+   "htmlSnippet": "Jun 9, 2014 \u003cb\u003e...\u003c/b\u003e The Pinkprint Available now! http://smarturl.it/NickiPinkprntDlxExiT Music video \u003cbr\u003e\nby Nicki Minaj performing Pills \u003cb\u003eN\u003c/b\u003e Potions. (C) 2014 Cash Money&nbsp;...",
+   "cacheId": "b30f24x6kLAJ",
+   "formattedUrl": "www.youtube.com/watch?v=f7ld-3nZUxA",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=f7ld-3nZUxA",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.ytimg.com/vi/f7ld-3nZUxA/maxresdefault.jpg"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=f7ld-3nZUxA",
+      "name": "Nicki Minaj - Pills N Potions (Official)",
+      "description": "The Pinkprint Available now! http://smarturl.it/NickiPinkprntDlxExiT Music video by Nicki Minaj performing Pills N Potions. (C) 2014 Cash Money Records Inc.",
+      "paid": "False",
+      "channelid": "UCaum3Yzdl3TbBt8YUeUGZLQ",
+      "videoid": "f7ld-3nZUxA",
+      "duration": "PT4M34S",
+      "unlisted": "False",
+      "thumbnailurl": "http://i.ytimg.com/vi/f7ld-3nZUxA/maxresdefault.jpg",
+      "embedurl": "https://www.youtube.com/embed/f7ld-3nZUxA",
+      "playertype": "HTML5 Flash",
+      "width": "1280",
+      "height": "720",
+      "isfamilyfriendly": "True",
+      "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER...",
+      "interactioncount": "107447260",
+      "datepublished": "2014-06-09",
+      "genre": "Music"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/NickiMinajAtVEVO"
+     },
+     {
+      "url": "https://plus.google.com/109113840482466112972"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcReLRBP65Ltx_8vfbNSngElVr4-YFoRLYRrfEsF72cKocsHMwGndwdC_6E"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Nicki Minaj - Pills N Potions (Official)",
+      "og:site_name": "YouTube",
+      "og:url": "http://www.youtube.com/watch?v=f7ld-3nZUxA",
+      "og:title": "Nicki Minaj - Pills N Potions (Official)",
+      "og:image": "http://i.ytimg.com/vi/f7ld-3nZUxA/maxresdefault.jpg",
+      "og:description": "The Pinkprint Available now! http://smarturl.it/NickiPinkprntDlxExiT Music video by Nicki Minaj performing Pills N Potions. (C) 2014 Cash Money Records Inc.",
+      "al:ios:app_store_id": "544007664",
+      "al:ios:app_name": "YouTube",
+      "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=f7ld-3nZUxA&feature=applinks",
+      "al:android:url": "vnd.youtube://www.youtube.com/watch?v=f7ld-3nZUxA&feature=applinks",
+      "al:android:app_name": "YouTube",
+      "al:android:package": "com.google.android.youtube",
+      "al:web:url": "http://www.youtube.com/watch?v=f7ld-3nZUxA&feature=applinks",
+      "og:type": "video",
+      "og:video:url": "https://www.youtube.com/embed/f7ld-3nZUxA",
+      "og:video:secure_url": "https://www.youtube.com/embed/f7ld-3nZUxA",
+      "og:video:type": "text/html",
+      "og:video:width": "1280",
+      "og:video:height": "720",
+      "og:video:tag": "Pills N Potions",
+      "fb:app_id": "87741124305",
+      "twitter:card": "player",
+      "twitter:site": "@youtube",
+      "twitter:url": "http://www.youtube.com/watch?v=f7ld-3nZUxA",
+      "twitter:title": "Nicki Minaj - Pills N Potions (Official)",
+      "twitter:description": "The Pinkprint Available now! http://smarturl.it/NickiPinkprntDlxExiT Music video by Nicki Minaj performing Pills N Potions. (C) 2014 Cash Money Records Inc.",
+      "twitter:image": "http://i.ytimg.com/vi/f7ld-3nZUxA/maxresdefault.jpg",
+      "twitter:app:name:iphone": "YouTube",
+      "twitter:app:id:iphone": "544007664",
+      "twitter:app:name:ipad": "YouTube",
+      "twitter:app:id:ipad": "544007664",
+      "twitter:app:url:iphone": "vnd.youtube://www.youtube.com/watch?v=f7ld-3nZUxA&feature=applinks",
+      "twitter:app:url:ipad": "vnd.youtube://www.youtube.com/watch?v=f7ld-3nZUxA&feature=applinks",
+      "twitter:app:name:googleplay": "YouTube",
+      "twitter:app:id:googleplay": "com.google.android.youtube",
+      "twitter:app:url:googleplay": "http://www.youtube.com/watch?v=f7ld-3nZUxA",
+      "twitter:player": "https://www.youtube.com/embed/f7ld-3nZUxA",
+      "twitter:player:width": "1280",
+      "twitter:player:height": "720",
+      "attribution": "vevo/"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i.ytimg.com/vi/f7ld-3nZUxA/maxresdefault.jpg",
+      "width": "1280",
+      "height": "720"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mashd N Kutcher - YouTube",
+   "htmlTitle": "Mashd \u003cb\u003eN\u003c/b\u003e Kutcher - YouTube",
+   "link": "https://www.youtube.com/user/mashdnkutchermusic",
+   "displayLink": "www.youtube.com",
+   "snippet": "The official YouTube channel for Australian duo Mashd N Kutcher.",
+   "htmlSnippet": "The official YouTube channel for Australian duo Mashd \u003cb\u003eN\u003c/b\u003e Kutcher.",
+   "cacheId": "WqaIC36T9T0J",
+   "formattedUrl": "https://www.youtube.com/user/mashdnkutchermusic",
+   "htmlFormattedUrl": "https://www.youtube.com/user/mashdnkutchermusic",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://yt3.ggpht.com/-t1AwfYfkZ3w/AAAAAAAAAAI/AAAAAAAAAAA/9B9NWYPeLkw/s900-c-k-no/photo.jpg"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/mashdnkutchermusic"
+     },
+     {
+      "url": "https://plus.google.com/103288844236571825826"
+     },
+     {
+      "url": "http://www.youtube.com/user/mashdnkutchermusic"
+     },
+     {
+      "url": "https://plus.google.com/103288844236571825826"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdX2je4ele6IZATb2wZiAUuMD_IP8uOql2DyThNcgBxxQjX4bGMmbajhcu"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Mashd N Kutcher",
+      "og:site_name": "YouTube",
+      "og:url": "https://www.youtube.com/user/mashdnkutchermusic",
+      "og:title": "Mashd N Kutcher",
+      "og:image": "https://yt3.ggpht.com/-t1AwfYfkZ3w/AAAAAAAAAAI/AAAAAAAAAAA/9B9NWYPeLkw/s900-c-k-no/photo.jpg",
+      "og:description": "The official YouTube channel for Australian duo Mashd N Kutcher.",
+      "al:ios:app_store_id": "544007664",
+      "al:ios:app_name": "YouTube",
+      "al:ios:url": "vnd.youtube://user/UC_5NNLN6cTclV7XvWSDNN6g",
+      "al:android:url": "https://www.youtube.com/user/mashdnkutchermusic?feature=applinks",
+      "al:android:app_name": "YouTube",
+      "al:android:package": "com.google.android.youtube",
+      "al:web:url": "https://www.youtube.com/user/mashdnkutchermusic?feature=applinks",
+      "og:type": "profile",
+      "fb:app_id": "87741124305",
+      "fb:profile_id": "mashdnkutcher",
+      "twitter:card": "summary",
+      "twitter:site": "@youtube",
+      "twitter:url": "https://www.youtube.com/user/mashdnkutchermusic",
+      "twitter:title": "Mashd N Kutcher",
+      "twitter:description": "The official YouTube channel for Australian duo Mashd N Kutcher.",
+      "twitter:image": "https://yt3.ggpht.com/-t1AwfYfkZ3w/AAAAAAAAAAI/AAAAAAAAAAA/9B9NWYPeLkw/s900-c-k-no/photo.jpg",
+      "twitter:app:name:iphone": "YouTube",
+      "twitter:app:id:iphone": "544007664",
+      "twitter:app:name:ipad": "YouTube",
+      "twitter:app:id:ipad": "544007664",
+      "twitter:app:url:iphone": "vnd.youtube://user/UC_5NNLN6cTclV7XvWSDNN6g",
+      "twitter:app:url:ipad": "vnd.youtube://user/UC_5NNLN6cTclV7XvWSDNN6g",
+      "twitter:app:name:googleplay": "YouTube",
+      "twitter:app:id:googleplay": "com.google.android.youtube",
+      "twitter:app:url:googleplay": "https://www.youtube.com/user/mashdnkutchermusic"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "https://yt3.ggpht.com/-t1AwfYfkZ3w/AAAAAAAAAAI/AAAAAAAAAAA/9B9NWYPeLkw/s900-c-k-no/photo.jpg",
+      "width": "900",
+      "height": "900"
+     },
+     {
+      "url": "https://yt3.ggpht.com/-t1AwfYfkZ3w/AAAAAAAAAAI/AAAAAAAAAAA/9B9NWYPeLkw/s900-c-k-no/photo.jpg",
+      "width": "900",
+      "height": "900"
+     }
+    ],
+    "youtubechannelv2": [
+     {
+      "url": "https://www.youtube.com/user/mashdnkutchermusic",
+      "name": "Mashd N Kutcher",
+      "description": "The official YouTube channel for Australian duo Mashd N Kutcher.",
+      "paid": "False",
+      "channelid": "UC_5NNLN6cTclV7XvWSDNN6g",
+      "thumbnailurl": "https://yt3.ggpht.com/-t1AwfYfkZ3w/AAAAAAAAAAI/AAAAAAAAAAA/9B9NWYPeLkw/s900-c-k-no/photo.jpg",
+      "isfamilyfriendly": "True",
+      "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH..."
+     }
+    ]
+   }
+  }
+ ]
+}

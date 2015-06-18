@@ -1,0 +1,425 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - g",
+    "totalResults": "1880000000",
+    "searchTerms": "g",
+    "count": 3,
+    "startIndex": 4,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "000588659921952991952:zlbdfzgofj4"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - g",
+    "totalResults": "1880000000",
+    "searchTerms": "g",
+    "count": 3,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "000588659921952991952:zlbdfzgofj4"
+   }
+  ]
+ },
+ "context": {
+  "title": "SBBSearchEngine"
+ },
+ "searchInformation": {
+  "searchTime": 0.642589,
+  "formattedSearchTime": "0.64",
+  "totalResults": "1880000000",
+  "formattedTotalResults": "1,880,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "G (2002) - IMDb",
+   "htmlTitle": "\u003cb\u003eG\u003c/b\u003e (2002) - IMDb",
+   "link": "http://www.imdb.com/title/tt0291928/",
+   "displayLink": "www.imdb.com",
+   "snippet": "Directed by Christopher Scott Cherot. With Richard T. Jones, Blair Underwood, \nChenoa Maxwell, Andre Royo. \"G\" is a Gatsbyesque love story set against ...",
+   "htmlSnippet": "Directed by Christopher Scott Cherot. With Richard T. Jones, Blair Underwood, \u003cbr\u003e\nChenoa Maxwell, Andre Royo. &quot;\u003cb\u003eG\u003c/b\u003e&quot; is a Gatsbyesque love story set against&nbsp;...",
+   "cacheId": "yYW30-h-FaIJ",
+   "formattedUrl": "www.imdb.com/title/tt0291928/",
+   "htmlFormattedUrl": "www.imdb.com/title/tt0291928/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ia.media-imdb.com/images/M/MV5BMTI2NTU4NjQ4N15BMl5BanBnXkFtZTcwNjU3NjEzMQ@@._V1_.jpg"
+     }
+    ],
+    "videoobject": [
+     {
+      "duration": "T97M0S",
+      "url": "http://www.imdb.com/offsite/?page-action=watch-aiv&token=BCYhYM5JCPSyCqneevzZXMxqqLzXKuV0huyAPpVfI5OGJsE9PcUdmfQdOllYpAUZKqtWjcAxwM9Q%0D%0A1CWep_Z0NV57wRvrGJygLxztXJFs5Fe_uGdFFTK9NmgKN16IM4A6iMbArhmdzVdGAptL56-G0d6Y%0D%0ABQu1p_5aPKGQaQ6KaPO8WYb3c_enJ8pk1ynImQL9Y1wV6bqinP2ZReD_paXTbA0rImxap_jYlceW%0D%0ABdXeC8ml224PFRF75tIJX-A-naCGEXSi3-SuwgdViIwIDTC4K35jEFwMa-AsXrIp-S_PjybRNHE%0D%0A&ref_=tt_pv_vi_aiv_1",
+      "image": "http://ia.media-imdb.com/images/M/MV5BMTI2NTU4NjQ4N15BMl5BanBnXkFtZTcwNjU3NjEzMQ@@._V1_BR-65_CT-15_SP229,229,0,C,0,0,0_CR45,62,139,105_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,139,105_PIimdb-goldbutton-big,BottomRight,-1,-1_ZAFull%2520Movie,2,76,16,137,verdenab,8,255,255,255,1_ZAat%2520Amazon%2520%25BB,2,1,14,137,verdenab,7,255,255,255,1_ZA97:00,103,1,14,36,verdenab,7,255,255,255,1_.jpg"
+     },
+     {
+      "duration": "T97M0S",
+      "url": "http://www.imdb.com/offsite/?page-action=watch-aiv&token=BCYlACJ85Y4BQPbO2aGWg5jYgk_uNmHi2XSYvXbGObkYT9Pm7uZ6ugznelvtj-53bj858DUp0goV%0D%0AgW2oTZwwriSq_Ev84F1oAJ3BdFtyjjpPA4kvf5I3W3RfW1UiYAfZhTQy-UuK_dfGv7crLFievpfh%0D%0A8mg961BJG0kPxSyT9zDfqZ6ZddEYPWAV-JGjvgj77FUbLaZqdYpN38bzO2W5UDm9_FHjPfUVUYjI%0D%0A_TcbuD2qEawR3IzCooOHDS1h8wq7eFGb2mk9iJaDAxqKi-MhxkY9kE8ryW0iLtHqYzjuN4LNqfk%0D%0A&ref_=tt_pv_vi_aiv_2",
+      "image": "http://ia.media-imdb.com/images/M/MV5BMTI2NTU4NjQ4N15BMl5BanBnXkFtZTcwNjU3NjEzMQ@@._V1_BR-65_CT-15_SP229,229,0,C,0,0,0_CR45,62,139,105_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,139,105_PIimdb-goldbutton-big,BottomRight,-1,-1_ZAFull%2520Movie,2,76,16,137,verdenab,8,255,255,255,1_ZAat%2520Amazon%2520%25BB,2,1,14,137,verdenab,7,255,255,255,1_ZA97:00,103,1,14,36,verdenab,7,255,255,255,1_.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "url": "Andrew Lauren Productions (ALP)",
+      "name": "Andrew Lauren Productions (ALP)"
+     }
+    ],
+    "person": [
+     {
+      "url": "Christopher Scott Cherot",
+      "name": "Christopher Scott Cherot"
+     },
+     {
+      "url": "Andrew Lauren",
+      "name": "Andrew Lauren"
+     },
+     {
+      "url": "Richard T. Jones",
+      "name": "Richard T. Jones"
+     },
+     {
+      "url": "Richard T. Jones",
+      "name": "Richard T. Jones"
+     },
+     {
+      "url": "Blair Underwood",
+      "name": "Blair Underwood"
+     },
+     {
+      "url": "Chenoa Maxwell",
+      "name": "Chenoa Maxwell"
+     },
+     {
+      "url": "Andre Royo",
+      "name": "Andre Royo"
+     },
+     {
+      "url": "Andrew Lauren",
+      "name": "Andrew Lauren"
+     },
+     {
+      "url": "Laz Alonso",
+      "name": "Laz Alonso"
+     },
+     {
+      "url": "Lalanya Masters",
+      "name": "Lalanya Masters"
+     },
+     {
+      "url": "Nicoye Banks",
+      "name": "Nicoye Banks"
+     },
+     {
+      "url": "Jillian Lindsey",
+      "name": "Jillian Lindsey"
+     },
+     {
+      "url": "Sonja Sohn",
+      "name": "Sonja Sohn"
+     },
+     {
+      "url": "Marcia Wright",
+      "name": "Marcia Wright"
+     },
+     {
+      "url": "Damian Young",
+      "name": "Damian Young"
+     },
+     {
+      "url": "Alex Carr",
+      "name": "Alex Carr"
+     },
+     {
+      "url": "Renet Kyles",
+      "name": "Renet Kyles"
+     },
+     {
+      "url": "Johnny Russo",
+      "name": "Johnny Russo"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "115",
+      "height": "169",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpYUuQOjS30Uy44cwqaSUo9VwPkArtQKIX6yiTc4_85JTrAiC5PDhmWIo"
+     }
+    ],
+    "aggregaterating": [
+     {
+      "ratingvalue": "4.9",
+      "bestrating": "10",
+      "ratingcount": "587",
+      "reviewcount": "16 user"
+     }
+    ],
+    "movie": [
+     {
+      "image": "http://ia.media-imdb.com/images/M/MV5BMTI2NTU4NjQ4N15BMl5BanBnXkFtZTcwNjU3NjEzMQ@@._V1_.jpg",
+      "name": "G",
+      "contentrating": "R",
+      "duration": "PT97M",
+      "genre": "Drama",
+      "datepublished": "2005-10-28",
+      "description": "\"G\" is a Gatsbyesque love story set against Hip-Hop's invasion of the Hamptons.",
+      "url": "Show HTML",
+      "awards": "2 wins & 1 nomination.",
+      "thumbnailurl": "http://www.imdb.com/media/rm1257411072/tt0291928?ref_=tt_pv_md_1",
+      "keywords": "Plot Keywords: hip hop | african american | new york | long island new york | modern day adaptation | See All (11) »"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ia.media-imdb.com/images/M/MV5BMTI2NTU4NjQ4N15BMl5BanBnXkFtZTcwNjU3NjEzMQ@@._V1._SX347_SY475_.jpg"
+     }
+    ],
+    "rating": [
+     {
+      "worstrating": "1",
+      "ratingvalue": "8",
+      "bestrating": "10"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.imdb.com/title/tt0291928/",
+      "og:image": "http://ia.media-imdb.com/images/M/MV5BMTI2NTU4NjQ4N15BMl5BanBnXkFtZTcwNjU3NjEzMQ@@._V1_.jpg",
+      "og:type": "video.movie",
+      "fb:app_id": "115109575169727",
+      "og:title": "G (2002)",
+      "og:site_name": "IMDb",
+      "title": "G (2002) - IMDb",
+      "og:description": "Directed by Christopher Scott Cherot.  With Richard T. Jones, Blair Underwood, Chenoa Maxwell, Andre Royo. \"G\" is a Gatsbyesque love story set against Hip-Hop's invasion of the Hamptons.",
+      "request_id": "0EDWHQSTCSDQX138A1CF"
+     }
+    ],
+    "moviereview": [
+     {
+      "ratingstars": "2.5",
+      "best": "10",
+      "originalrating": "4.9",
+      "votes": "587",
+      "ratingcount": "16 user",
+      "image_href": "http://ia.media-imdb.com/images/M/MV5BMTUxNDUwMjcwM15BMl5BanBnXkFtZTcwOTczNjkyMw@@._V1_SX105_CR0,0,105,105_AL_.jpg",
+      "name": "G",
+      "release_date": "2005-10-28",
+      "release_year": "2005",
+      "runtime": "PT96M",
+      "genre": "Drama/Romance",
+      "directed_by": "Christopher Scott Cherot",
+      "starring": "Chenoa Maxwell, Richard T. Jones, Blair Underwood",
+      "summary": "A young Great Gatsbyish Hip Hopper named Summer G falls for a middle to upper class sister while in college. After she rejects him for a fellow social..."
+     }
+    ],
+    "review": [
+     {
+      "name": "The Hip-hop Great Gatsby",
+      "author": "Clayton Moore",
+      "datepublished": "2005-09-14",
+      "reviewbody": "G, The Hip-hop Great Gatsby opened the Kansas Film Festival and I got a ticket. I'm not at all a fan of Hip-hop (although Hustle and Flow was terrific!). Regardless \"G\" is great! Keep in mind..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alex G - YouTube",
+   "htmlTitle": "Alex \u003cb\u003eG\u003c/b\u003e - YouTube",
+   "link": "https://www.youtube.com/user/AlexGMusic7",
+   "displayLink": "www.youtube.com",
+   "snippet": "Well hey there! I'm Alex. My debut album comes out SEPT 9TH and I'm so excited\n. so. excited. !!! Just a normal, energetic girl who loves music, Carol Burnett...",
+   "htmlSnippet": "Well hey there! I&#39;m Alex. My debut album comes out SEPT 9TH and I&#39;m so excited\u003cbr\u003e\n. so. excited. !!! Just a normal, energetic girl who loves music, Carol Burnett...",
+   "cacheId": "r1o2F0VnmswJ",
+   "formattedUrl": "https://www.youtube.com/user/AlexGMusic7",
+   "htmlFormattedUrl": "https://www.youtube.com/user/AlexGMusic7",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://yt3.ggpht.com/-xmhaZ0lNLLs/AAAAAAAAAAI/AAAAAAAAAAA/Jfh9HWlvojQ/s900-c-k-no/photo.jpg"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/AlexGMusic7"
+     },
+     {
+      "url": "https://plus.google.com/102833556384220139048"
+     },
+     {
+      "url": "http://www.youtube.com/user/AlexGMusic7"
+     },
+     {
+      "url": "https://plus.google.com/102833556384220139048"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ69VO9_4sAvB1H9DhnlE3p3TYMjdWK5chu-ofBexer_fzHUapiS3IFB5s"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Alex G",
+      "og:site_name": "YouTube",
+      "og:url": "https://www.youtube.com/user/AlexGMusic7",
+      "og:title": "Alex G",
+      "og:image": "https://yt3.ggpht.com/-xmhaZ0lNLLs/AAAAAAAAAAI/AAAAAAAAAAA/Jfh9HWlvojQ/s900-c-k-no/photo.jpg",
+      "og:description": "Well hey there! I'm Alex. My debut album comes out SEPT 9TH and I'm so excited. so. excited. !!! Just a normal, energetic girl who loves music, Carol Burnett...",
+      "al:ios:app_store_id": "544007664",
+      "al:ios:app_name": "YouTube",
+      "al:ios:url": "vnd.youtube://user/UCrY87RDPNIpXYnmNkjKoCSw",
+      "al:android:url": "https://www.youtube.com/user/AlexGMusic7?feature=applinks",
+      "al:android:app_name": "YouTube",
+      "al:android:package": "com.google.android.youtube",
+      "al:web:url": "https://www.youtube.com/user/AlexGMusic7?feature=applinks",
+      "og:type": "profile",
+      "og:video:tag": "Alex G",
+      "fb:app_id": "87741124305",
+      "fb:profile_id": "HelloAlexG",
+      "twitter:card": "summary",
+      "twitter:site": "@youtube",
+      "twitter:url": "https://www.youtube.com/user/AlexGMusic7",
+      "twitter:title": "Alex G",
+      "twitter:description": "Well hey there! I'm Alex. My debut album comes out SEPT 9TH and I'm so excited. so. excited. !!! Just a normal, energetic girl who loves music, Carol Burnett...",
+      "twitter:image": "https://yt3.ggpht.com/-xmhaZ0lNLLs/AAAAAAAAAAI/AAAAAAAAAAA/Jfh9HWlvojQ/s900-c-k-no/photo.jpg",
+      "twitter:app:name:iphone": "YouTube",
+      "twitter:app:id:iphone": "544007664",
+      "twitter:app:name:ipad": "YouTube",
+      "twitter:app:id:ipad": "544007664",
+      "twitter:app:url:iphone": "vnd.youtube://user/UCrY87RDPNIpXYnmNkjKoCSw",
+      "twitter:app:url:ipad": "vnd.youtube://user/UCrY87RDPNIpXYnmNkjKoCSw",
+      "twitter:app:name:googleplay": "YouTube",
+      "twitter:app:id:googleplay": "com.google.android.youtube",
+      "twitter:app:url:googleplay": "https://www.youtube.com/user/AlexGMusic7"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "https://yt3.ggpht.com/-xmhaZ0lNLLs/AAAAAAAAAAI/AAAAAAAAAAA/Jfh9HWlvojQ/s900-c-k-no/photo.jpg",
+      "width": "900",
+      "height": "900"
+     },
+     {
+      "url": "https://yt3.ggpht.com/-xmhaZ0lNLLs/AAAAAAAAAAI/AAAAAAAAAAA/Jfh9HWlvojQ/s900-c-k-no/photo.jpg",
+      "width": "900",
+      "height": "900"
+     }
+    ],
+    "youtubechannelv2": [
+     {
+      "url": "https://www.youtube.com/user/AlexGMusic7",
+      "name": "Alex G",
+      "description": "Well hey there! I'm Alex. My debut album comes out SEPT 9TH and I'm so excited. so. excited. !!! Just a normal, energetic girl who loves music, Carol Burnett...",
+      "paid": "False",
+      "channelid": "UCrY87RDPNIpXYnmNkjKoCSw",
+      "thumbnailurl": "https://yt3.ggpht.com/-xmhaZ0lNLLs/AAAAAAAAAAI/AAAAAAAAAAA/Jfh9HWlvojQ/s900-c-k-no/photo.jpg",
+      "isfamilyfriendly": "True",
+      "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "G-Eazy - Last Night (ft. Devon & KYLE) - YouTube",
+   "htmlTitle": "\u003cb\u003eG\u003c/b\u003e-Eazy - Last Night (ft. Devon &amp; KYLE) - YouTube",
+   "link": "http://www.youtube.com/watch?v=R4acN95hJ9g",
+   "displayLink": "www.youtube.com",
+   "snippet": "Feb 21, 2014 ... Want MORE music? Subscribe here - http://bit.ly/SubscribeFPM Want to follow us \nfor more? http://www.youtube.com/user/FirstPeriodMusic ...",
+   "htmlSnippet": "Feb 21, 2014 \u003cb\u003e...\u003c/b\u003e Want MORE music? Subscribe here - http://bit.ly/SubscribeFPM Want to follow us \u003cbr\u003e\nfor more? http://www.youtube.com/user/FirstPeriodMusic&nbsp;...",
+   "cacheId": "h-lc9fnMQFAJ",
+   "formattedUrl": "www.youtube.com/watch?v=R4acN95hJ9g",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=R4acN95hJ9g",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.ytimg.com/vi/R4acN95hJ9g/maxresdefault.jpg"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=R4acN95hJ9g",
+      "name": "G-Eazy - Last Night (ft. Devon & KYLE)",
+      "description": "Want MORE music? Subscribe here - http://bit.ly/SubscribeFPM Want to follow us for more? http://www.youtube.com/user/FirstPeriodMusic http://www.twitter.com/...",
+      "paid": "False",
+      "channelid": "UCIpeMkP-IyienCEzlOk7zzw",
+      "videoid": "R4acN95hJ9g",
+      "duration": "PT4M5S",
+      "unlisted": "False",
+      "thumbnailurl": "http://i.ytimg.com/vi/R4acN95hJ9g/maxresdefault.jpg",
+      "embedurl": "https://www.youtube.com/embed/R4acN95hJ9g",
+      "playertype": "HTML5 Flash",
+      "width": "1280",
+      "height": "720",
+      "isfamilyfriendly": "True",
+      "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+      "interactioncount": "584637",
+      "datepublished": "2014-02-21",
+      "genre": "Music"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/FirstPeriodMusic"
+     },
+     {
+      "url": "https://plus.google.com/109673003052653520317"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnA1dieHMVhFULkuw8YiL_H1UHg19SqZN3UD8E_T5cea2S-yeZ1AHV3wA"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "G-Eazy - Last Night (ft. Devon & KYLE)",
+      "og:site_name": "YouTube",
+      "og:url": "http://www.youtube.com/watch?v=R4acN95hJ9g",
+      "og:title": "G-Eazy - Last Night (ft. Devon & KYLE)",
+      "og:image": "http://i.ytimg.com/vi/R4acN95hJ9g/maxresdefault.jpg",
+      "og:description": "Want MORE music? Subscribe here - http://bit.ly/SubscribeFPM Want to follow us for more? http://www.youtube.com/user/FirstPeriodMusic http://www.twitter.com/...",
+      "al:ios:app_store_id": "544007664",
+      "al:ios:app_name": "YouTube",
+      "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=R4acN95hJ9g&feature=applinks",
+      "al:android:url": "vnd.youtube://www.youtube.com/watch?v=R4acN95hJ9g&feature=applinks",
+      "al:android:app_name": "YouTube",
+      "al:android:package": "com.google.android.youtube",
+      "al:web:url": "http://www.youtube.com/watch?v=R4acN95hJ9g&feature=applinks",
+      "og:type": "video",
+      "og:video:url": "https://www.youtube.com/embed/R4acN95hJ9g",
+      "og:video:secure_url": "https://www.youtube.com/embed/R4acN95hJ9g",
+      "og:video:type": "text/html",
+      "og:video:width": "1280",
+      "og:video:height": "720",
+      "og:video:tag": "FirstPeriodMusic"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i.ytimg.com/vi/R4acN95hJ9g/maxresdefault.jpg",
+      "width": "1280",
+      "height": "720"
+     }
+    ]
+   }
+  }
+ ]
+}

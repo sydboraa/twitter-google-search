@@ -1,0 +1,390 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - f",
+    "totalResults": "2220000000",
+    "searchTerms": "f",
+    "count": 3,
+    "startIndex": 4,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "000588659921952991952:zlbdfzgofj4"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - f",
+    "totalResults": "2220000000",
+    "searchTerms": "f",
+    "count": 3,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "000588659921952991952:zlbdfzgofj4"
+   }
+  ]
+ },
+ "context": {
+  "title": "SBBSearchEngine"
+ },
+ "searchInformation": {
+  "searchTime": 0.386974,
+  "formattedSearchTime": "0.39",
+  "totalResults": "2220000000",
+  "formattedTotalResults": "2,220,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "FORD MOTOR CO (F:New York): Stock Quote & Company Profile ...",
+   "htmlTitle": "FORD MOTOR CO (\u003cb\u003eF\u003c/b\u003e:New York): Stock Quote &amp; Company Profile \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.bloomberg.com/research/stocks/snapshot/snapshot.asp?ticker=F",
+   "displayLink": "www.bloomberg.com",
+   "snippet": "FORD MOTOR CO (F) stock price & investing information. Find FORD MOTOR \nCO historical stock quotes, key competitors, stock data, executives and company\n ...",
+   "htmlSnippet": "FORD MOTOR CO (\u003cb\u003eF\u003c/b\u003e) stock price &amp; investing information. Find FORD MOTOR \u003cbr\u003e\nCO historical stock quotes, key competitors, stock data, executives and company\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "H_RSCq3L_VgJ",
+   "formattedUrl": "www.bloomberg.com/research/stocks/snapshot/snapshot.asp?...F",
+   "htmlFormattedUrl": "www.bloomberg.com/research/stocks/snapshot/snapshot.asp?...\u003cb\u003eF\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.bloomberg.com/apps/chart?timeout=10&h=225&w=220&type=gp_line2&range=1y&ticks=F:US&cfg=ChartBuilderVol_bw.xml&img=png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "180",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRTStDLXyGpxnhKgQRdngIwDfuwkVzUjy5bQyGSE0dpZVniaQsDWgXNknKk"
+     }
+    ],
+    "article": [
+     {
+      "url": "http://www.businessweek.com/news/2015-02-02/russia-manufacturing-slumps-to-weakest-since-2009-as-ruble-sinks",
+      "name": "Russia’s Manufacturing at Weakest Since 2009 as Ruble Sinks",
+      "publisher": "Bloomberg"
+     },
+     {
+      "url": "http://www.businessweek.com/news/2015-01-30/auto-sales-outlook-rises-200-000-after-strong-end-to-year-cars",
+      "name": "Auto Sales Outlook Rises 200,000 After Strong End to 2014: Cars",
+      "publisher": "Bloomberg"
+     },
+     {
+      "url": "http://www.businessweek.com/news/2015-01-29/ford-cfo-says-toyota-gains-10-billion-advantage-from-weak-yen",
+      "name": "Ford CFO Says Toyota Gains $10 Billion Advantage on Weak Yen",
+      "publisher": "Bloomberg"
+     },
+     {
+      "url": "http://www.businessweek.com/news/2015-01-29/ford-profit-falls-less-than-estimated-on-slowed-pickup-output",
+      "name": "Ford Profit Beats Estimates as F-150 Approaches Full Output",
+      "publisher": "Bloomberg"
+     },
+     {
+      "url": "http://www.businessweek.com/news/2015-01-29/takata-honda-ask-air-bag-suits-to-be-combined-in-pittsburgh",
+      "name": "Takata, Honda Ask Air-Bag Suits to Be Combined in Pittsburgh",
+      "publisher": "Bloomberg"
+     },
+     {
+      "url": "http://www.businessweek.com/articles/2015-01-16/we-were-promised-space-lasers-the-state-of-the-unions-biggest-fibs",
+      "name": "We Were Promised Space Lasers: The State of the Union's Biggest Fibs",
+      "publisher": "Businessweek"
+     },
+     {
+      "url": "http://www.businessweek.com/articles/2015-01-08/ces-auto-show-web-connected-cars-are-stars-of-2015",
+      "name": "Putting the Mobile Into Automobile",
+      "publisher": "Businessweek"
+     },
+     {
+      "url": "http://www.businessweek.com/articles/2014-12-23/dodges-muscle-cars-push-aside-the-minivan",
+      "name": "Dodge's Muscle Cars Push Aside the Minivan",
+      "publisher": "Businessweek"
+     },
+     {
+      "url": "http://www.businessweek.com/articles/2014-12-17/toyota-embraces-fuel-cell-cars-for-post-gasoline-future",
+      "name": "The World's Biggest Car Company Wants to Get Rid of Gasoline",
+      "publisher": "Businessweek"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "CCBE002059AE2FE1DF8C1B82A489F5FD",
+      "y_key": "77e5b4acb12a4e47",
+      "sector": "Consumer Discretionary",
+      "industry": "Automobiles",
+      "employees": "187000",
+      "og:site_name": "Businessweek.com"
+     }
+    ],
+    "corporation": [
+     {
+      "name": "ford motor co",
+      "tickersymbol": "F",
+      "description": "Ford Motor Company manufactures and distributes automobiles worldwide. The company operates through two sectors, Automotive and Financial Services. The Automotive sector develops, manufactures,...",
+      "url": "www.ford.com",
+      "foundingdate": "1903",
+      "employee": "Mr. Mark Fields"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Expelled (2010) - IMDb",
+   "htmlTitle": "The Expelled (2010) - IMDb",
+   "link": "http://www.imdb.com/title/tt1486670/",
+   "displayLink": "www.imdb.com",
+   "snippet": "The Expelled -- Trapped by a mysterious hooded gang, a group of teachers and \nThe Expelled -- F is set in a sprawling impersonal English school, after lessons ...",
+   "htmlSnippet": "The Expelled -- Trapped by a mysterious hooded gang, a group of teachers and \u003cbr\u003e\nThe Expelled -- \u003cb\u003eF\u003c/b\u003e is set in a sprawling impersonal English school, after lessons&nbsp;...",
+   "cacheId": "YtZ6bGQOhewJ",
+   "formattedUrl": "www.imdb.com/title/tt1486670/",
+   "htmlFormattedUrl": "www.imdb.com/title/tt1486670/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ia.media-imdb.com/images/M/MV5BMjM1OTE5MTAyN15BMl5BanBnXkFtZTgwNjc3MjIwMDE@._V1_SY1068_CR62,0,630,1068_AL_.jpg"
+     }
+    ],
+    "person": [
+     {
+      "url": "Johannes Roberts",
+      "name": "Johannes Roberts"
+     },
+     {
+      "url": "Johannes Roberts",
+      "name": "Johannes Roberts"
+     },
+     {
+      "url": "David Schofield",
+      "name": "David Schofield"
+     },
+     {
+      "url": "David Schofield",
+      "name": "David Schofield"
+     },
+     {
+      "url": "Eliza Bennett",
+      "name": "Eliza Bennett"
+     },
+     {
+      "url": "Ruth Gemmell",
+      "name": "Ruth Gemmell"
+     },
+     {
+      "url": "Finlay Robertson",
+      "name": "Finlay Robertson"
+     },
+     {
+      "url": "Roxanne McKee",
+      "name": "Roxanne McKee"
+     },
+     {
+      "url": "Juliet Aubrey",
+      "name": "Juliet Aubrey"
+     },
+     {
+      "url": "Emma Cleasby",
+      "name": "Emma Cleasby"
+     },
+     {
+      "url": "Tom Mannion",
+      "name": "Tom Mannion"
+     },
+     {
+      "url": "Max Fowler",
+      "name": "Max Fowler"
+     },
+     {
+      "url": "Jamie Kenna",
+      "name": "Jamie Kenna"
+     },
+     {
+      "url": "Mike Burnside",
+      "name": "Mike Burnside"
+     },
+     {
+      "url": "Christopher Adamson",
+      "name": "Christopher Adamson"
+     },
+     {
+      "url": "Paul Blacknell",
+      "name": "Paul Blacknell"
+     },
+     {
+      "url": "Tina Barnes",
+      "name": "Tina Barnes"
+     },
+     {
+      "url": "Alexander Ellis",
+      "name": "Alexander Ellis"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "172",
+      "height": "292",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3vl7L1nEKvUp8mL49er0L69J9V5qnYk7QBMOCphvs4OYNmM0UZEd6jTk"
+     }
+    ],
+    "audience": [
+     {
+      "url": "View content advisory"
+     }
+    ],
+    "movie": [
+     {
+      "image": "http://ia.media-imdb.com/images/M/MV5BMjM1OTE5MTAyN15BMl5BanBnXkFtZTgwNjc3MjIwMDE@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "name": "The Expelled",
+      "contentrating": "R",
+      "duration": "PT79M",
+      "genre": "Horror",
+      "datepublished": "2013-07-09",
+      "description": "A group of teachers must defend themselves from a gang of murderous kids when their school comes under siege after hours.",
+      "trailer": "Watch Trailer",
+      "headline": "Eliza Bennett Signs With ICM",
+      "provider": "Deadline",
+      "url": "Show HTML",
+      "thumbnailurl": "http://www.imdb.com/media/rm229737984/tt1486670?ref_=tt_pv_md_1",
+      "keywords": "Plot Keywords: chav | murder | violent youth | high school | high school teacher | See All (6) »"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ia.media-imdb.com/images/M/MV5BMjM1OTE5MTAyN15BMl5BanBnXkFtZTgwNjc3MjIwMDE@._V1_SY317_CR5,0,214,317_AL_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.imdb.com/title/tt1486670/",
+      "og:image": "http://ia.media-imdb.com/images/M/MV5BMjM1OTE5MTAyN15BMl5BanBnXkFtZTgwNjc3MjIwMDE@._V1_SY1068_CR62,0,630,1068_AL_.jpg",
+      "og:type": "video.movie",
+      "fb:app_id": "115109575169727",
+      "og:title": "The Expelled (2010)",
+      "og:site_name": "IMDb",
+      "title": "The Expelled (2010) - IMDb",
+      "og:description": "Directed by Johannes Roberts.  With David Schofield, Eliza Bennett, Ruth Gemmell, Finlay Robertson. A group of teachers must defend themselves from a gang of murderous kids when their school comes under siege after hours.",
+      "request_id": "0F9CQ7AWKR0PAPF5ND5B"
+     }
+    ],
+    "videoobject": [
+     {
+      "duration": "T79M0S",
+      "url": "http://www.imdb.com/offsite/?page-action=watch-aiv&token=BCYjGZnKk91h9OxXQlTZbKyD7Utdc2PMcYi4xU9EnvfllmRI6gw2lofa5SaQME_nSm6bZfXzNACp%0D%0A8mbuVllEFrCrVyg1P1THKIKf5YYsWQ1EJAVx1zkiJlUC7e60WYKh9ZbO2mao6u_7sBOf0WfFU5qp%0D%0Ao-B0S24pM6c2iU--L2eytLoKcGm1DbwOVI1lR_RUbGOw8041XHppOn-S1N5e-1BlNahBEckLljX0%0D%0AuqM7oynI_KQQbGNHquv4V1y-A1jGxBuMLIW57rceJVIgXfApbaN2BBt2gMo8dAef7OZFAz-bT3Q%0D%0A&ref_=tt_pv_vi_aiv_1",
+      "image": "http://ia.media-imdb.com/images/M/MV5BMjM1OTE5MTAyN15BMl5BanBnXkFtZTgwNjc3MjIwMDE@._V1_BR-65_CT-15_SP229,229,0,C,0,0,0_CR45,62,139,105_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,139,105_PIimdb-goldbutton-big,BottomRight,-1,-1_ZAFull%2520Movie,2,76,16,137,verdenab,8,255,255,255,1_ZAat%2520Amazon%2520%25BB,2,1,14,137,verdenab,7,255,255,255,1_ZA79:00,103,1,14,36,verdenab,7,255,255,255,1_.jpg"
+     },
+     {
+      "duration": "T1M1S",
+      "url": "http://www.imdb.com/video/withoutabox/vi3837106201?ref_=tt_pv_vi_aiv_2",
+      "image": "http://ia.media-imdb.com/images/M/MV5BNTgzMDA1OTY0NV5BMl5BanBnXkFtZTcwNjI2NjQxNA@@._V1_SP229,229,0,C,0,0,0_CR45,62,139,105_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,139,105_PIimdb-bluebutton-big,BottomRight,-1,-1_ZATrailer,2,76,16,137,verdenab,8,255,255,255,1_ZAon%2520IMDb,2,1,14,137,verdenab,7,255,255,255,1_ZA01:01,103,1,14,36,verdenab,7,255,255,255,1_PIimdb-HDIconMiniWhite,BottomLeft,2,-2_.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "url": "Black Robe",
+      "name": "Black Robe"
+     },
+     {
+      "url": "Capital Markets Film Finance",
+      "name": "Capital Markets Film Finance"
+     },
+     {
+      "url": "Gatlin Pictures",
+      "name": "Gatlin Pictures"
+     }
+    ],
+    "aggregaterating": [
+     {
+      "ratingvalue": "4.7",
+      "bestrating": "10",
+      "ratingcount": "3,109",
+      "reviewcount": "68 user"
+     }
+    ],
+    "rating": [
+     {
+      "worstrating": "1",
+      "ratingvalue": "3",
+      "bestrating": "10"
+     }
+    ],
+    "moviereview": [
+     {
+      "ratingstars": "2.5",
+      "best": "10",
+      "originalrating": "4.7",
+      "votes": "3,109",
+      "ratingcount": "68 user",
+      "image_href": "http://ia.media-imdb.com/images/M/MV5BMTc0NjI0NTI5MF5BMl5BanBnXkFtZTcwNDA0OTU5Mw@@._V1_SX105_CR0,0,105,105_AL_.jpg",
+      "name": "\"F\" (original title)",
+      "release_date": "2013-07-09",
+      "release_year": "2013",
+      "runtime": "PT79M",
+      "genre": "Horror/Thriller",
+      "directed_by": "Johannes Roberts",
+      "starring": "Ruth Gemmell, David Schofield, Eliza Bennett",
+      "summary": "In England, the teacher of the Wittering College Robert Anderson is hit in the face by a student and is forced to take three months vacation to avoid..."
+     }
+    ],
+    "review": [
+     {
+      "name": "Very poor... AVOID AT ALL COSTS!",
+      "author": "Brian2005",
+      "datepublished": "2010-09-21",
+      "reviewbody": "Where to start? No on-screen violence. No identities for the hoodies or any real reason why they decided to kill everyone. Not a single likable character. The protagonist is an alcoholic who..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "F Stock News - Ford Motor Company Stock | Seeking Alpha",
+   "htmlTitle": "\u003cb\u003eF\u003c/b\u003e Stock News - Ford Motor Company Stock | Seeking Alpha",
+   "link": "http://seekingalpha.com/symbol/F",
+   "displayLink": "seekingalpha.com",
+   "snippet": "The best analysis of F's stock. By the biggest community of pro and individual \ninvestors. Includes the bull case, bear case, breaking news.",
+   "htmlSnippet": "The best analysis of \u003cb\u003eF&#39;s\u003c/b\u003e stock. By the biggest community of pro and individual \u003cbr\u003e\ninvestors. Includes the bull case, bear case, breaking news.",
+   "cacheId": "fGa9WZzLAEkJ",
+   "formattedUrl": "seekingalpha.com/symbol/F",
+   "htmlFormattedUrl": "seekingalpha.com/symbol/\u003cb\u003eF\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://app.quotemedia.com/quotetools/getChart?webmasterId=91022&snap=true&symbol=f&chscale=5d&chtype=AreaChart&chwid=284&chhig=150&chfill=ee0066CC&chfill2=110066CC&chln=0066CC&chmrg=0&chfrmon=false&chton=some&chbg=f8f8f8"
+     }
+    ],
+    "organization": [
+     {
+      "url": "http://seekingalpha.com/"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "227",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsBnrNUCT7Q54jaJCTPbHr6AC_o_42GwixxJIzBYfpYxDOw3fM03M-Wg"
+     }
+    ],
+    "metatags": [
+     {
+      "application-name": "Seeking Alpha - Read, Decide, Invest.",
+      "msapplication-tilecolor": "#360000",
+      "msapplication-tileimage": "http://static.cdn-seekingalpha.com/images/media_kit/71cdea92-2dc1-419d-8d62-f68b74c1eda8.png",
+      "msapplication-tooltip": "Seeking Alpha - Read, Decide, Invest.",
+      "msapplication-starturl": "http://seekingalpha.com?source=ie_task",
+      "msapplication-task": "name=Portfolio ;action-uri=http://seekingalpha.com/account/portfolio?source=ie_task;icon-uri=http://static.cdn-seekingalpha.com/favicon.ico",
+      "fb:admins": "100006791796236",
+      "og:image": "http://static.cdn-seekingalpha.com/uploads/2013/8/19/social_sa_logo.png",
+      "viewport": "width=1300"
+     }
+    ]
+   }
+  }
+ ]
+}

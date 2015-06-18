@@ -1,0 +1,324 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - h",
+    "totalResults": "1750000000",
+    "searchTerms": "h",
+    "count": 3,
+    "startIndex": 4,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "000588659921952991952:zlbdfzgofj4"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - h",
+    "totalResults": "1750000000",
+    "searchTerms": "h",
+    "count": 3,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "000588659921952991952:zlbdfzgofj4"
+   }
+  ]
+ },
+ "context": {
+  "title": "SBBSearchEngine"
+ },
+ "searchInformation": {
+  "searchTime": 0.380865,
+  "formattedSearchTime": "0.38",
+  "totalResults": "1750000000",
+  "formattedTotalResults": "1,750,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "H (2002) - IMDb",
+   "htmlTitle": "\u003cb\u003eH\u003c/b\u003e (2002) - IMDb",
+   "link": "http://www.imdb.com/title/tt0304120/",
+   "displayLink": "www.imdb.com",
+   "snippet": "A serial killer named Shin-Hyun gives himself up to police. He confesses to \ncommitting a series of particularly horrifying murders of exclusively female victims\n.",
+   "htmlSnippet": "A serial killer named Shin-Hyun gives himself up to police. He confesses to \u003cbr\u003e\ncommitting a series of particularly horrifying murders of exclusively female victims\u003cbr\u003e\n.",
+   "cacheId": "JQTuUVXc4moJ",
+   "formattedUrl": "www.imdb.com/title/tt0304120/",
+   "htmlFormattedUrl": "www.imdb.com/title/tt0304120/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ia.media-imdb.com/images/M/MV5BMTY3NjQwNDMwNV5BMl5BanBnXkFtZTcwNjE3ODgyMQ@@._V1_.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "url": "KTB Entertainment Corporation",
+      "name": "KTB Entertainment Corporation"
+     },
+     {
+      "url": "B.O.M. Film Productions Co.",
+      "name": "B.O.M. Film Productions Co."
+     }
+    ],
+    "person": [
+     {
+      "url": "Jong-hyuk Lee",
+      "name": "Jong-hyuk Lee"
+     },
+     {
+      "url": "Jong-hyuk Lee",
+      "name": "Jong-hyuk Lee"
+     },
+     {
+      "url": "Jung-ah Yum",
+      "name": "Jung-ah Yum"
+     },
+     {
+      "url": "Jung-ah Yum",
+      "name": "Jung-ah Yum"
+     },
+     {
+      "url": "Jin-hee Ji",
+      "name": "Jin-hee Ji"
+     },
+     {
+      "url": "Ji-ru Sung",
+      "name": "Ji-ru Sung"
+     },
+     {
+      "url": "Seung-woo Cho",
+      "name": "Seung-woo Cho"
+     },
+     {
+      "url": "Woong-ki Min",
+      "name": "Woong-ki Min"
+     },
+     {
+      "url": "Yong-soo Park",
+      "name": "Yong-soo Park"
+     },
+     {
+      "url": "Hyuk Poong Kwon",
+      "name": "Hyuk Poong Kwon"
+     },
+     {
+      "url": "Eol Lee",
+      "name": "Eol Lee"
+     },
+     {
+      "url": "In-kwon Kim",
+      "name": "In-kwon Kim"
+     },
+     {
+      "url": "Kil-soo Park",
+      "name": "Kil-soo Park"
+     },
+     {
+      "url": "Sun-kyung Kim",
+      "name": "Sun-kyung Kim"
+     },
+     {
+      "url": "Bu-seon Kim",
+      "name": "Bu-seon Kim"
+     },
+     {
+      "url": "Roe-ha Kim",
+      "name": "Roe-ha Kim"
+     },
+     {
+      "url": "Seon-mi Yeon",
+      "name": "Seon-mi Yeon"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "189",
+      "height": "267",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ71bWg8l-_eAtpzDFzBpFdsMmrV1s59vznTkCV3-oEiOSe1V-w3qC22ayr"
+     }
+    ],
+    "aggregaterating": [
+     {
+      "ratingvalue": "6.0",
+      "bestrating": "10",
+      "ratingcount": "1,507",
+      "reviewcount": "20 user"
+     }
+    ],
+    "movie": [
+     {
+      "image": "http://ia.media-imdb.com/images/M/MV5BMTY3NjQwNDMwNV5BMl5BanBnXkFtZTcwNjE3ODgyMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "name": "H",
+      "contentrating": "R",
+      "duration": "PT106M",
+      "genre": "Drama",
+      "datepublished": "2002-12-27",
+      "description": "A serial killer named Shin-Hyun gives himself up to police. He confesses to committing a series of particularly horrifying murders of exclusively female victims. He is imprisoned, awaiting...",
+      "headline": "Sundance gets 'Asia Extreme'",
+      "provider": "The Hollywood Reporter",
+      "url": "Show HTML",
+      "awards": "1 nomination.",
+      "keywords": "Plot Keywords: police | detective | serial killer | body landing on car | severed finger | See All (18) »"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ia.media-imdb.com/images/M/MV5BMTY3NjQwNDMwNV5BMl5BanBnXkFtZTcwNjE3ODgyMQ@@._V1._SX347_SY475_.jpg"
+     }
+    ],
+    "rating": [
+     {
+      "worstrating": "1",
+      "ratingvalue": "9",
+      "bestrating": "10"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.imdb.com/title/tt0304120/",
+      "og:image": "http://ia.media-imdb.com/images/M/MV5BMTY3NjQwNDMwNV5BMl5BanBnXkFtZTcwNjE3ODgyMQ@@._V1_.jpg",
+      "og:type": "video.movie",
+      "fb:app_id": "115109575169727",
+      "og:title": "H (2002)",
+      "og:site_name": "IMDb",
+      "title": "H (2002) - IMDb",
+      "og:description": "Directed by Jong-hyuk Lee.  With Jung-ah Yum, Jin-hee Ji, Ji-ru Sung, Seung-woo Cho. A serial killer named Shin-Hyun gives himself up to police. He confesses to committing a series of particularly horrifying murders of exclusively female victims. He is imprisoned, awaiting the death sentence for his crimes. Yet the killings do not stop. They continue with all the same characteristics trademarks of the Shin-Hyun serial killings. The case is re-opened when two more bodies are ...",
+      "request_id": "0TSAWTEFYKMR4XK34J5K"
+     }
+    ],
+    "moviereview": [
+     {
+      "ratingstars": "3.0",
+      "best": "10",
+      "originalrating": "6.0",
+      "votes": "1,507",
+      "ratingcount": "20 user",
+      "image_href": "http://ia.media-imdb.com/images/G/01/imdb/images/widget/amazon._CB339202444_.png",
+      "name": "H",
+      "release_date": "2002-12-27",
+      "release_year": "2002",
+      "runtime": "PT106M",
+      "genre": "Drama/Mystery",
+      "directed_by": "Jong-hyuk Lee",
+      "starring": "Ji-ru Sung, Jung-ah Yum, Jin-hee Ji",
+      "summary": "A serial killer named Shin-Hyun gives himself up to police. He confesses to committing a series of particularly horrifying murders of exclusively female..."
+     }
+    ],
+    "review": [
+     {
+      "name": "A Short, but Positive Review",
+      "author": "(delfette)",
+      "datepublished": "2007-02-20",
+      "reviewbody": "The brilliance of this film does not lie in its basic thriller plot nor its characters (The characters are not terribly interesting, but the film does not dwell long on their personal lives;..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "H - Ha index - Drugs.com",
+   "htmlTitle": "\u003cb\u003eH\u003c/b\u003e - Ha index - Drugs.com",
+   "link": "http://www.drugs.com/alpha/h1.html",
+   "displayLink": "www.drugs.com",
+   "snippet": "Results 1 - 100 of 1081 ... Drugs: H - Ha. Drugs and medications listed by brand and/or generic name \nstarting with the letter 'H'. Popular Drugs starting with 'H'.",
+   "htmlSnippet": "Results 1 - 100 of 1081 \u003cb\u003e...\u003c/b\u003e Drugs: \u003cb\u003eH\u003c/b\u003e - Ha. Drugs and medications listed by brand and/or generic name \u003cbr\u003e\nstarting with the letter &#39;\u003cb\u003eH\u003c/b\u003e&#39;. Popular Drugs starting with &#39;\u003cb\u003eH\u003c/b\u003e&#39;.",
+   "cacheId": "PyT_k7vS_fkJ",
+   "formattedUrl": "www.drugs.com/alpha/h1.html",
+   "htmlFormattedUrl": "www.drugs.com/alpha/h1.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images2.ddccdn.com/img/apps/promo-uberapp.png"
+     }
+    ],
+    "organization": [
+     {
+      "url": "http://www.drugs.com/",
+      "logo": "http://images2.ddccdn.com/img/layout/ddc-logo.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "251",
+      "height": "201",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbvet4Yc6MnhsuNUMVDb-Vt4VrLya6gX5__p9tvZLOwGyXYIylx_RKIM30"
+     }
+    ],
+    "webpage": [
+     {
+      "breadcrumb": "Home Drugs A to Z H"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "H - Ha index  - Drugs.com",
+      "og:description": "Browse drugs and medications alphabetically. Includes H-C Tussive, H-C Tussive-NR, H.P. Acthar, H.P. Acthar Gel, H1N1 influenza virus vaccine",
+      "og:image": "http://www.drugs.com/img/social/ddc-facebook-icon.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Challenge: H for Hopper | Drawing basics | Khan Academy",
+   "htmlTitle": "Challenge: \u003cb\u003eH\u003c/b\u003e for Hopper | Drawing basics | Khan Academy",
+   "link": "https://www.khanacademy.org/computing/computer-programming/programming/drawing-basics/p/challenge-h-for-hopper",
+   "displayLink": "www.khanacademy.org",
+   "snippet": "To draw an H using rectangles, we need two tall ones on the side and a short \none connecting them in the middle. Start the first side by typing in exactly the \ncode ...",
+   "htmlSnippet": "To draw an \u003cb\u003eH\u003c/b\u003e using rectangles, we need two tall ones on the side and a short \u003cbr\u003e\none connecting them in the middle. Start the first side by typing in exactly the \u003cbr\u003e\ncode&nbsp;...",
+   "cacheId": "OCkfpgzOKs4J",
+   "formattedUrl": "https://www.khanacademy.org/.../drawing.../challenge-h-for-hopper",
+   "htmlFormattedUrl": "https://www.khanacademy.org/.../drawing.../challenge-\u003cb\u003eh\u003c/b\u003e-for-hopper",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://s3.amazonaws.com/ka-cs-challenge-images/h1.png"
+     }
+    ],
+    "organization": [
+     {
+      "name": "Khan Academy",
+      "description": "Watch. Practice. Learn almost anything for free.",
+      "image": "https://www.kastatic.org/images/khan-logo-vertical-transparent.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "112",
+      "height": "112",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcXOcrr-N2p8NH-sUBQZxZV__HMBj_3HgfvmxEcizi9bm7zyrqOHf4"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0",
+      "sailthru.tags": "programming, computer-programming, drawing-basics, computing",
+      "fb:app_id": "160249463991765",
+      "fb:admins": "100000121497109,1305017,100001572496923",
+      "og:site_name": "Khan Academy",
+      "og:url": "http://www.khanacademy.org",
+      "og:type": "non_profit",
+      "og:title": "Khan Academy",
+      "og:description": "Learn for free about math, art, computer programming, economics, physics, chemistry, biology, medicine, finance, history, and more. Khan Academy is a nonprofit with the mission of providing a free, world-class education for anyone, anywhere.",
+      "og:image": "https://www.kastatic.org/images/khan-logo-vertical-transparent.png",
+      "fb:page_id": "159403248441",
+      "twitter:site": "@khanacademy",
+      "twitter:title": "Khan Academy",
+      "twitter:description": "Learn for free about math, art, computer programming, economics, physics, chemistry, biology, medicine, finance, history, and more. Khan Academy is a nonprofit with the mission of providing a free, world-class education for anyone, anywhere.",
+      "twitter:image": "https://www.kastatic.org/images/khan-logo-vertical-transparent.png"
+     }
+    ]
+   }
+  }
+ ]
+}

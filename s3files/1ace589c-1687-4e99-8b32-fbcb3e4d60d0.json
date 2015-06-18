@@ -1,0 +1,306 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - fr5",
+    "totalResults": "138000",
+    "searchTerms": "fr5",
+    "count": 3,
+    "startIndex": 4,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "000588659921952991952:zlbdfzgofj4"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - fr5",
+    "totalResults": "138000",
+    "searchTerms": "fr5",
+    "count": 3,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "000588659921952991952:zlbdfzgofj4"
+   }
+  ]
+ },
+ "context": {
+  "title": "SBBSearchEngine"
+ },
+ "searchInformation": {
+  "searchTime": 0.455175,
+  "formattedSearchTime": "0.46",
+  "totalResults": "138000",
+  "formattedTotalResults": "138,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Destiny - Helios FR5 Rare Weapons Guide! - YouTube",
+   "htmlTitle": "Destiny - Helios \u003cb\u003eFR5\u003c/b\u003e Rare Weapons Guide! - YouTube",
+   "link": "http://www.youtube.com/watch?v=qz7V88rLmCc",
+   "displayLink": "www.youtube.com",
+   "snippet": "Sep 11, 2014 ... In this video I show you Destiny's Rare Weapon, the Helios FR5! I show you \ngameplay of the Helios FR5, where and how to find the Rare ...",
+   "htmlSnippet": "Sep 11, 2014 \u003cb\u003e...\u003c/b\u003e In this video I show you Destiny&#39;s Rare Weapon, the Helios \u003cb\u003eFR5\u003c/b\u003e! I show you \u003cbr\u003e\ngameplay of the Helios \u003cb\u003eFR5\u003c/b\u003e, where and how to find the Rare&nbsp;...",
+   "cacheId": "mrN7JTNf7DQJ",
+   "formattedUrl": "www.youtube.com/watch?v=qz7V88rLmCc",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=qz7V88rLmCc",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.ytimg.com/vi/qz7V88rLmCc/maxresdefault.jpg"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=qz7V88rLmCc",
+      "name": "Destiny - Helios FR5 Rare Weapons Guide!",
+      "description": "In this video I show you Destiny’s Rare Weapon, the Helios FR5! I show you gameplay of the Helios FR5, where and how to find the Rare Fusion Rifle in Destiny...",
+      "paid": "False",
+      "channelid": "UCAx-HthdldR_K7U9Gv8_nUw",
+      "videoid": "qz7V88rLmCc",
+      "duration": "PT2M33S",
+      "unlisted": "False",
+      "thumbnailurl": "http://i.ytimg.com/vi/qz7V88rLmCc/maxresdefault.jpg",
+      "embedurl": "https://www.youtube.com/embed/qz7V88rLmCc",
+      "playertype": "HTML5 Flash",
+      "width": "1280",
+      "height": "720",
+      "isfamilyfriendly": "True",
+      "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+      "interactioncount": "11743",
+      "datepublished": "2014-09-11",
+      "genre": "Gaming"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/ChrisFrancisK"
+     },
+     {
+      "url": "https://plus.google.com/113218904739152460070"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "303",
+      "height": "166",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQlI0TSvdUviwG4Rou8ZcUP4jljjbDPBmSG9YQixjJ5_wR9QWC7nwLSSLnO"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Destiny - Helios FR5 Rare Weapons Guide!",
+      "og:site_name": "YouTube",
+      "og:url": "http://www.youtube.com/watch?v=qz7V88rLmCc",
+      "og:title": "Destiny - Helios FR5 Rare Weapons Guide!",
+      "og:image": "http://i.ytimg.com/vi/qz7V88rLmCc/maxresdefault.jpg",
+      "og:description": "In this video I show you Destiny’s Rare Weapon, the Helios FR5! I show you gameplay of the Helios FR5, where and how to find the Rare Fusion Rifle in Destiny...",
+      "al:ios:app_store_id": "544007664",
+      "al:ios:app_name": "YouTube",
+      "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=qz7V88rLmCc&feature=applinks",
+      "al:android:url": "vnd.youtube://www.youtube.com/watch?v=qz7V88rLmCc&feature=applinks",
+      "al:android:app_name": "YouTube",
+      "al:android:package": "com.google.android.youtube",
+      "al:web:url": "http://www.youtube.com/watch?v=qz7V88rLmCc&feature=applinks",
+      "og:type": "video",
+      "og:video:url": "https://www.youtube.com/embed/qz7V88rLmCc",
+      "og:video:secure_url": "https://www.youtube.com/embed/qz7V88rLmCc",
+      "og:video:type": "text/html",
+      "og:video:width": "1280",
+      "og:video:height": "720",
+      "og:video:tag": "destiny",
+      "fb:app_id": "87741124305",
+      "twitter:card": "player",
+      "twitter:site": "@youtube",
+      "twitter:url": "http://www.youtube.com/watch?v=qz7V88rLmCc",
+      "twitter:title": "Destiny - Helios FR5 Rare Weapons Guide!",
+      "twitter:description": "In this video I show you Destiny’s Rare Weapon, the Helios FR5! I show you gameplay of the Helios FR5, where and how to find the Rare Fusion Rifle in Destiny...",
+      "twitter:image": "http://i.ytimg.com/vi/qz7V88rLmCc/maxresdefault.jpg"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i.ytimg.com/vi/qz7V88rLmCc/maxresdefault.jpg",
+      "width": "1280",
+      "height": "720"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wiggle | Park Tools FR5 Cassette Lockring Remover | Workshop Tools",
+   "htmlTitle": "Wiggle | Park Tools \u003cb\u003eFR5\u003c/b\u003e Cassette Lockring Remover | Workshop Tools",
+   "link": "http://www.wiggle.co.uk/park-tools-fr5-cassette-lockring-remover/",
+   "displayLink": "www.wiggle.co.uk",
+   "snippet": "Buy your Park Tools FR5 Cassette Lockring Remover - Workshop Tools from \nWiggle. SAVE 20% - RRP £9.99 now only £7.99. Free worldwide delivery ...",
+   "htmlSnippet": "Buy your Park Tools \u003cb\u003eFR5\u003c/b\u003e Cassette Lockring Remover - Workshop Tools from \u003cbr\u003e\nWiggle. SAVE 20% - RRP £9.99 now only £7.99. Free worldwide delivery&nbsp;...",
+   "cacheId": "F8UtB2-fhVYJ",
+   "formattedUrl": "www.wiggle.co.uk/park-tools-fr5-cassette-lockring-remover/",
+   "htmlFormattedUrl": "www.wiggle.co.uk/park-tools-\u003cb\u003efr5\u003c/b\u003e-cassette-lockring-remover/",
+   "pagemap": {
+    "product": [
+     {
+      "image": "http://www.wigglestatic.com/images/park%20fr5%2004.jpg?w=430&h=430&a=7",
+      "name": "Park Tools FR5 Cassette Lockring Remover",
+      "manufacturer": "Park Tools",
+      "description": "Fits most cassette lockrings including Shimano®. (Note: You must hold freewheel with chain whip tool such as the Park Tool Sprocket Remover SR-1 or SR-2). read more"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://www.wigglestatic.com/images/park%20fr5%2004.jpg?w=430&h=430&a=7"
+     }
+    ],
+    "organization": [
+     {
+      "url": "http://www.wiggle.co.uk/",
+      "logo": "http://www.wigglestatic.com/images/ui/wiggle-logo/desktop-wiggle-logo.png?x=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjiQHTQZF5Friy2NhMWiufNNUyCAztaOjezHPX1rA_siavmc-gwNj2bEuJ"
+     }
+    ],
+    "aggregaterating": [
+     {
+      "ratingvalue": "4.6",
+      "reviewcount": "107"
+     }
+    ],
+    "offer": [
+     {
+      "price": "£7.99",
+      "pricecurrency": "GBP"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:account_id": "1512917531",
+      "rating": "general",
+      "y_key": "1b8eff45e8dca44a",
+      "msvalidate.01": "1EF0DD2853923F7294452BF93DE3BEF3"
+     }
+    ],
+    "hproduct": [
+     {
+      "description": "Fits most cassette lockrings including Shimano®. (Note: You must hold freewheel with chain whip tool such as the Park Tool Sprocket Remover SR-1 or SR-2). read more",
+      "fn": "Park Tools FR5 Cassette Lockring Remover",
+      "photo": "http://www.wigglestatic.com/images/park%20fr5%2004.jpg?w=430&h=430&a=7",
+      "currency": "GBP",
+      "currency_iso4217": "826"
+     }
+    ],
+    "hreviewaggregate": [
+     {
+      "count": "84",
+      "votes": "84"
+     }
+    ],
+    "review": [
+     {
+      "ratingstars": "4.5",
+      "ratingcount": "84"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "fr5 - YouTube",
+   "htmlTitle": "\u003cb\u003efr5\u003c/b\u003e - YouTube",
+   "link": "http://www.youtube.com/user/fr5",
+   "displayLink": "www.youtube.com",
+   "snippet": "Watch Queue. TV Queue. __count__/__total__. fr5. SubscribeSubscribed\nUnsubscribe 11. Subscription preferences. Loading... Loading... Working... fr5 ...",
+   "htmlSnippet": "Watch Queue. TV Queue. __count__/__total__. \u003cb\u003efr5\u003c/b\u003e. SubscribeSubscribed\u003cbr\u003e\nUnsubscribe 11. Subscription preferences. Loading... Loading... Working... \u003cb\u003efr5\u003c/b\u003e&nbsp;...",
+   "cacheId": "ptCkpTatykUJ",
+   "formattedUrl": "www.youtube.com/user/fr5",
+   "htmlFormattedUrl": "www.youtube.com/user/\u003cb\u003efr5\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.ytimg.com/vi/tah0OnS3nBU/mqdefault.jpg"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/fr5"
+     },
+     {
+      "url": "http://www.youtube.com/user/fr5"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "256",
+      "height": "144",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0fhTdMlheLdN668IMaG_Mi4k-RGFGRiWdS3rOH9qJzhPuv6fS1U-F-bf4"
+     }
+    ],
+    "metatags": [
+     {
+      "og:site_name": "YouTube",
+      "og:url": "http://www.youtube.com/user/fr5",
+      "og:image": "//s.ytimg.com/yts/img/avatar_720-vflYJnzBZ.png",
+      "al:ios:app_store_id": "544007664",
+      "al:ios:app_name": "YouTube",
+      "al:ios:url": "vnd.youtube://user/UCA9pFEypq8rM7JMht4sB2zw",
+      "al:android:url": "http://www.youtube.com/user/fr5?feature=applinks",
+      "al:android:app_name": "YouTube",
+      "al:android:package": "com.google.android.youtube",
+      "al:web:url": "http://www.youtube.com/user/fr5?feature=applinks",
+      "og:type": "profile",
+      "fb:app_id": "87741124305",
+      "twitter:card": "summary",
+      "twitter:site": "@youtube",
+      "twitter:url": "http://www.youtube.com/user/fr5",
+      "twitter:image": "//s.ytimg.com/yts/img/avatar_720-vflYJnzBZ.png",
+      "twitter:app:name:iphone": "YouTube",
+      "twitter:app:id:iphone": "544007664",
+      "twitter:app:name:ipad": "YouTube",
+      "twitter:app:id:ipad": "544007664",
+      "twitter:app:url:iphone": "vnd.youtube://user/UCA9pFEypq8rM7JMht4sB2zw",
+      "twitter:app:url:ipad": "vnd.youtube://user/UCA9pFEypq8rM7JMht4sB2zw",
+      "twitter:app:name:googleplay": "YouTube",
+      "twitter:app:id:googleplay": "com.google.android.youtube",
+      "twitter:app:url:googleplay": "http://www.youtube.com/user/fr5"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://s.ytimg.com/yts/img/avatar_720-vflYJnzBZ.png",
+      "width": "900",
+      "height": "900"
+     },
+     {
+      "url": "http://s.ytimg.com/yts/img/avatar_720-vflYJnzBZ.png",
+      "width": "900",
+      "height": "900"
+     }
+    ],
+    "youtubechannelv2": [
+     {
+      "url": "http://www.youtube.com/user/fr5",
+      "paid": "False",
+      "channelid": "UCA9pFEypq8rM7JMht4sB2zw",
+      "thumbnailurl": "http://s.ytimg.com/yts/img/avatar_720-vflYJnzBZ.png",
+      "isfamilyfriendly": "True",
+      "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH..."
+     }
+    ]
+   }
+  }
+ ]
+}
